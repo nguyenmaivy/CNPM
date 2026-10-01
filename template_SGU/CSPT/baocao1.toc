@@ -1,0 +1,64 @@
+\contentsline {chapter}{LỜI CẢM ƠN}{1}{chapter*.1}%
+\contentsline {chapter}{DANH MỤC TỪ VIẾT TẮT}{5}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}TỔNG QUAN VỀ ĐỀ TÀI}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Giới thiệu về đề tài}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Khảo sát yêu cầu đề tài}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Bảng câu hỏi khái quát}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Bảng câu hỏi chi tiết}{9}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Tổng kết kết quả và khảo sát}{13}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Các yêu cầu nghiệp vụ của đề tài}{14}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Các đối tượng sử dụng}{14}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Các yêu cầu chức năng}{14}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.1}Đối với quản lý nhân sự}{14}{subsubsection.1.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.3.2.2}Đối với nhân viên kho}{15}{subsubsection.1.3.2.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.3}Đối với quản lý kho}{15}{subsubsection.1.3.2.3}%
+\contentsline {subsubsection}{\numberline {1.3.2.4}Đối với giám đốc quản lý (admin)}{16}{subsubsection.1.3.2.4}%
+\contentsline {chapter}{\numberline {2}PHÂN TÍCH VÀ THIẾT KẾ CƠ SỞ DỮ LIỆU PHÂN TÁN}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Lược đồ quan hệ (ERD)}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Lược đồ cơ sở dữ liệu (lược đồ toàn cục)}{18}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Mô tả các bảng dữ liệu}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Bảng THƯƠNG HIỆU}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Bảng SẢN PHẨM}{20}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Bảng PHIÊN BẢN SẢN PHẨM}{20}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Bảng NHÀ CUNG CẤP}{21}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Bảng CHỨC VỤ}{21}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Bảng KHO}{22}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Bảng KHO\_PHIÊN BẢN SẢN PHẨM}{22}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}Bảng NHÂN VIÊN}{22}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}Bảng KHÁCH HÀNG}{23}{subsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.3.10}Bảng PHIẾU NHẬP}{24}{subsection.2.3.10}%
+\contentsline {subsection}{\numberline {2.3.11}Bảng CHI TIẾT PHIẾU NHẬP}{24}{subsection.2.3.11}%
+\contentsline {subsection}{\numberline {2.3.12}Bảng PHIẾU XUẤT}{25}{subsection.2.3.12}%
+\contentsline {subsection}{\numberline {2.3.13}Bảng CHI TIẾT PHIẾU XUẤT}{26}{subsection.2.3.13}%
+\contentsline {subsection}{\numberline {2.3.14}Bảng ĐƠN XIN NGHỈ}{26}{subsection.2.3.14}%
+\contentsline {subsection}{\numberline {2.3.15}Bảng LỊCH SỬ CHỈNH SỬA}{27}{subsection.2.3.15}%
+\contentsline {subsection}{\numberline {2.3.16}Bảng LƯƠNG}{27}{subsection.2.3.16}%
+\contentsline {subsection}{\numberline {2.3.17}Bảng CHI TIẾT CHẤM CÔNG}{28}{subsection.2.3.17}%
+\contentsline {section}{\numberline {2.4}Lược đồ phân mảnh}{29}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Mô tả}{29}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Biểu thức phân mảnh}{30}{subsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.1}Bảng KHO}{30}{subsubsection.2.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.4.2.2}Bảng NHANVIEN}{30}{subsubsection.2.4.2.2}%
+\contentsline {subsubsection}{\numberline {2.4.2.3}Bảng PHIEUNHAP}{31}{subsubsection.2.4.2.3}%
+\contentsline {subsubsection}{\numberline {2.4.2.4}Bảng PHIEUXUAT}{31}{subsubsection.2.4.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.2.5}Bảng LUONG}{32}{subsubsection.2.4.2.5}%
+\contentsline {subsubsection}{\numberline {2.4.2.6}Bảng DONXINNGHI}{32}{subsubsection.2.4.2.6}%
+\contentsline {subsubsection}{\numberline {2.4.2.7}Bảng LSCHINHSUA}{33}{subsubsection.2.4.2.7}%
+\contentsline {subsubsection}{\numberline {2.4.2.8}Bảng BANGCHAMCONG}{33}{subsubsection.2.4.2.8}%
+\contentsline {subsubsection}{\numberline {2.4.2.9}Bảng CHITIETCHAMCONG}{34}{subsubsection.2.4.2.9}%
+\contentsline {subsubsection}{\numberline {2.4.2.10}Bảng KHO\_PBSP}{34}{subsubsection.2.4.2.10}%
+\contentsline {subsubsection}{\numberline {2.4.2.11}Bảng CTPN}{35}{subsubsection.2.4.2.11}%
+\contentsline {subsubsection}{\numberline {2.4.2.12}Bảng CTPX}{35}{subsubsection.2.4.2.12}%
+\contentsline {chapter}{\numberline {3}CÀI ĐẶT VÀ TRUY VẤN CƠ SỞ DỮ LIỆU PHÂN TÁN}{36}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Cài đặt cơ sở dữ liệu phân tán}{36}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Chuẩn bị}{36}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Cài đặt Publication }{43}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Cài đặt Subscription}{51}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.3.1}Tạo server}{51}{subsubsection.3.1.3.1}%
+\contentsline {subsection}{\numberline {3.1.4}Cài đặt Linked Server}{61}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Các truy vấn và thao tác với cơ sở dữ liệu phân tán}{64}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Các truy dữ liệu ở Server gốc}{64}{subsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.1}Chức năng quản lý nhân viên}{64}{subsubsection.3.2.1.1}%
+\contentsline {subsubsection}{\numberline {3.2.1.2}Chức năng quản lý bảng chấm công}{69}{subsubsection.3.2.1.2}%
+\contentsline {subsection}{\numberline {3.2.2}Các truy vấn dữ liệu ở Server phân mảnh}{76}{subsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2.1}Chức năng quản lý nhân viên}{79}{subsubsection.3.2.2.1}%

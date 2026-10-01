@@ -1,0 +1,43 @@
+\contentsline {section}{LỜI CẢM ƠN}{2}{}%
+\contentsline {section}{\numberline {1}Giới thiệu}{6}{}%
+\contentsline {subsection}{\numberline {1.1}Mô tả bối cảnh thệ thống}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Phạm vi dự án}{6}{}%
+\contentsline {subsection}{\numberline {1.3}Bên liên quan}{6}{}%
+\contentsline {subsection}{\numberline {1.4}Kỳ vọng của dự án}{7}{}%
+\contentsline {section}{\numberline {2}Yêu cầu hệ thống}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Yêu cầu chức năng}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Yêu cầu phi chứ năng}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Sơ đồ Use-case tổng quan hệ thống}{9}{}%
+\contentsline {section}{\numberline {3}Mô hình use case và đặc tả}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Use case đăt món ăn}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Use case thanh toán đơn hàng}{10}{}%
+\contentsline {subsection}{\numberline {3.3}Use case xử lý đơn hàng}{12}{}%
+\contentsline {section}{\numberline {4}Mô hình hóa hệ thống}{14}{}%
+\contentsline {subsection}{\numberline {4.1}Sơ đồ hoạt động (Activity diagram)}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Sơ đồ trình tự (Sequence diagram)}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Sơ đồ lớp (Class Diagram)}{18}{}%
+\contentsline {section}{\numberline {5}Thiết kế kiến trúc}{18}{}%
+\contentsline {subsection}{\numberline {5.1}Mô tả kiên trúc hệ thống}{18}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Tổng quan}{18}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Kiến trúc hệ thống}{18}{}%
+\contentsline {section}{\numberline {6}Triển khai - Sprint 1}{20}{}%
+\contentsline {subsection}{\numberline {6.1}Triển khai MVP cho màn hình Menu}{20}{}%
+\contentsline {subsection}{\numberline {6.2}Thiết lập dự án}{20}{}%
+\contentsline {subsection}{\numberline {6.3}Tổ chức thư mục và tài liệu}{21}{}%
+\contentsline {section}{\numberline {7}Triển khai - Sprint 2}{22}{}%
+\contentsline {subsection}{\numberline {7.1}Giao diện}{22}{}%
+\contentsline {subsubsection}{\numberline {7.1.1}Giao diện đăng nhập}{22}{}%
+\contentsline {subsubsection}{\numberline {7.1.2}Giao diện đăng ký}{23}{}%
+\contentsline {subsubsection}{\numberline {7.1.3}Giao diện menu}{23}{}%
+\contentsline {subsubsection}{\numberline {7.1.4}Giao diện chi tiết món ăn}{24}{}%
+\contentsline {subsubsection}{\numberline {7.1.5}Giao diện thanh toán}{24}{}%
+\contentsline {subsection}{\numberline {7.2}Hướng dẫn sử dụng hệ thống}{25}{}%
+\contentsline {subsubsection}{\numberline {7.2.1}Đăng ký tài khoản}{25}{}%
+\contentsline {subsubsection}{\numberline {7.2.2}Đăng nhập}{25}{}%
+\contentsline {subsubsection}{\numberline {7.2.3}Xem chi tiết món ăn}{26}{}%
+\contentsline {subsubsection}{\numberline {7.2.4}Chọn món và thêm vào giỏ hàng}{26}{}%
+\contentsline {subsubsection}{\numberline {7.2.5}Thanh toán}{27}{}%
+\contentsline {subsection}{\numberline {7.3}Đánh giá và kết luận}{27}{}%
+\contentsline {subsubsection}{\numberline {7.3.1}Thổng kết quá trình phát triển}{27}{}%
+\contentsline {subsubsection}{\numberline {7.3.2}Những khó khăn và cách khắc phục}{27}{}%
+\contentsline {subsubsection}{\numberline {7.3.3}Định hướng phát triển tiếp theo}{28}{}%

@@ -1,0 +1,45 @@
+\contentsline {section}{LỜI CẢM ƠN}{2}{}%
+\contentsline {section}{\numberline {1}Giới thiệu}{6}{}%
+\contentsline {subsection}{\numberline {1.1}Mô tả bối cảnh thệ thống}{6}{}%
+\contentsline {subsection}{\numberline {1.2}Phạm vi dự án}{6}{}%
+\contentsline {subsection}{\numberline {1.3}Bên liên quan}{6}{}%
+\contentsline {subsection}{\numberline {1.4}Kỳ vọng của dự án}{7}{}%
+\contentsline {section}{\numberline {2}Yêu cầu hệ thống}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Yêu cầu chức năng}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Yêu cầu phi chứ năng}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Sơ đồ Use-case tổng quan hệ thống}{9}{}%
+\contentsline {section}{\numberline {3}Mô hình use case và đặc tả}{9}{}%
+\contentsline {subsection}{\numberline {3.1}Use case đăt món ăn}{9}{}%
+\contentsline {subsection}{\numberline {3.2}Use case thanh toán đơn hàng}{10}{}%
+\contentsline {subsection}{\numberline {3.3}Use case xử lý đơn hàng}{12}{}%
+\contentsline {section}{\numberline {4}Mô hình hóa hệ thống}{14}{}%
+\contentsline {subsection}{\numberline {4.1}Sơ đồ hoạt động (Activity diagram)}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Sơ đồ trình tự (Sequence diagram)}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Sơ đồ lớp (Class Diagram)}{18}{}%
+\contentsline {section}{\numberline {5}Thiết kế kiến trúc}{18}{}%
+\contentsline {subsection}{\numberline {5.1}Tổng quan kiên trúc hệ thống}{18}{}%
+\contentsline {subsection}{\numberline {5.2}Kiến trúc hệ thống}{18}{}%
+\contentsline {section}{\numberline {6}Triển khai - Sprint 1}{20}{}%
+\contentsline {subsection}{\numberline {6.1}Triển khai MVP cho màn hình Menu}{20}{}%
+\contentsline {subsection}{\numberline {6.2}Thiết lập dự án}{20}{}%
+\contentsline {subsection}{\numberline {6.3}Tổ chức thư mục và tài liệu}{21}{}%
+\contentsline {section}{\numberline {7}Kiểm thử}{22}{}%
+\contentsline {subsection}{\numberline {7.1}Test design}{22}{}%
+\contentsline {subsection}{\numberline {7.2}Test case}{23}{}%
+\contentsline {section}{\numberline {8}Triển khai - Sprint 2}{26}{}%
+\contentsline {subsection}{\numberline {8.1}Giao diện}{26}{}%
+\contentsline {subsubsection}{\numberline {8.1.1}Giao diện đăng nhập}{26}{}%
+\contentsline {subsubsection}{\numberline {8.1.2}Giao diện đăng ký}{27}{}%
+\contentsline {subsubsection}{\numberline {8.1.3}Giao diện menu}{27}{}%
+\contentsline {subsubsection}{\numberline {8.1.4}Giao diện chi tiết món ăn}{28}{}%
+\contentsline {subsubsection}{\numberline {8.1.5}Giao diện thanh toán}{28}{}%
+\contentsline {subsection}{\numberline {8.2}Hướng dẫn sử dụng hệ thống}{29}{}%
+\contentsline {subsubsection}{\numberline {8.2.1}Đăng ký tài khoản}{29}{}%
+\contentsline {subsubsection}{\numberline {8.2.2}Đăng nhập}{29}{}%
+\contentsline {subsubsection}{\numberline {8.2.3}Xem chi tiết món ăn}{30}{}%
+\contentsline {subsubsection}{\numberline {8.2.4}Chọn món và thêm vào giỏ hàng}{30}{}%
+\contentsline {subsubsection}{\numberline {8.2.5}Thanh toán}{31}{}%
+\contentsline {subsection}{\numberline {8.3}Đánh giá và kết luận}{31}{}%
+\contentsline {subsubsection}{\numberline {8.3.1}Thổng kết quá trình phát triển}{31}{}%
+\contentsline {subsubsection}{\numberline {8.3.2}Những khó khăn và cách khắc phục}{32}{}%
+\contentsline {subsubsection}{\numberline {8.3.3}Định hướng phát triển tiếp theo}{32}{}%

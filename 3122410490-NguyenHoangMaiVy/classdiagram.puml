@@ -1,0 +1,142 @@
+@startuml
+
+' =================== ENUM ===================
+enum OrderStatus {
+  Ordered
+  Processing
+  Confirmed
+  Shipped
+}
+
+enum CustomerStatus {
+  Active
+  Blocked
+}
+
+' =================== ADDRESS & PHONE ===================
+class Address {
+  -HouseNo: string
+  -Road: string
+  -City: string
+  -State: string
+}
+
+class Phone {
+  -number: string
+  -type: string
+}
+
+' =================== USER ===================
+abstract class User {
+  -loginID: string
+  -password: string
+  -email: string
+  +GetUserDetails(userID: string): User
+}
+
+class Customer {
+  -status: CustomerStatus
+}
+
+class Administrator {
+  +AddProduct(): void
+  +EditProducts(): void
+}
+
+class Guest
+
+User <|-- Customer
+User <|-- Administrator
+
+' =================== WISHLIST ===================
+class Wishlist {
+  -products: Product[]
+}
+
+Customer "1" *-- "1" Wishlist
+
+' =================== PRODUCT ===================
+class Product {
+  -productID: int
+  -productName: string
+  -description: string
+  -price: decimal
+  -quantity: int
+  -image: image
+  -rating: decimal
+  +GetImage(productID: int): image
+  +GetPrice(productID: int): decimal
+}
+
+class Category {
+  -name: string
+}
+
+class Brand {
+  -name: string
+}
+
+class Seller {
+  -sellerID: string
+  -name: string
+}
+
+Product --> Category
+Product --> Brand
+Product --> Seller
+
+' =================== SHOPPING CART ===================
+class ShoppingCart {
+  -products: Product[]
+  +GetCartItems(customerID: string): Product[]
+}
+
+Customer "1" *-- "1" ShoppingCart
+ShoppingCart "1" o-- "0..*" Product
+
+' =================== ORDER ===================
+class Order {
+  -orderID: bigint
+  -order_date: datetime
+  -shipped_date: datetime
+  -ship_to: Address
+  -total: decimal
+  -status: OrderStatus
+  -products: Product[]
+  +GetOrderDetails(orderID: bigint): Order
+}
+
+Order "1" o-- "0..*" Product
+Order --> Address
+
+' =================== PAYMENT ===================
+abstract class PaymentClass {
+  +CapturePayment(): void
+  +ProcessPayment(): void
+}
+
+class Paypal
+class CreditCard
+
+PaymentClass <|-- Paypal
+PaymentClass <|-- CreditCard
+
+Order ..> PaymentClass : uses >
+
+' =================== USER ACCOUNT ===================
+class UserAccount {
+  -id: string
+  -email: string
+  -addresses: Address[]
+  -phones: Phone[]
+  -orders: Order[]
+  +GetCustomer2Address(customerID: string): Address
+}
+
+UserAccount "1" *-- "1..*" Address
+UserAccount "1" o-- "0..*" Phone
+UserAccount "1" o-- "0..*" Order
+
+Customer "1" -- "1" UserAccount
+
+@enduml
